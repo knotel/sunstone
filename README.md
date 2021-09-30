@@ -38,7 +38,7 @@ ActiveRecord::Base.establish_connection(
 Usage
 -----
 
-Mention fitler / etc...
+Mention filter / etc...
 
 TODO:
 =====
